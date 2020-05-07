@@ -1,0 +1,549 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Raleway:ital,wght@0,400;0,700;1,300&display=swap');
+
+.introImg {
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 136px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.menu {
+    width: 100%;
+    height: 80px;
+    background-color: black;
+}
+
+
+
+.menu ul {
+    
+    position: absolute;
+    left: 65%;
+    width: 400px;
+    display: flex;
+        
+}
+
+.menu li {
+    color: white;
+    margin-top: 30px;
+    margin-left: 40px;
+
+}
+
+.intro {
+    position: flex;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.quote {
+    position: absolute;
+    width: 638px;
+    height: 100.68px;
+    left: 205px;
+    top: 214.98px;
+
+    font-family: Raleway;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #FFFFFF;
+}
+
+.quoter{
+    position: absolute;
+    width: 144px;
+    height: 28.35px;
+    left: 635px;
+    top: 315.67px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.linha {
+    position: absolute;
+    width: 70px;
+    height: 0px;
+    left: 668px;
+    top: 337.17px;
+    border: 1px solid rgba(255, 255, 255, 0.7);
+}
+
+.quemSomos {
+    width: 100%;
+    height: 400px;
+}
+.quemSomos img {
+    position: absolute;
+    left: 138px;
+    top: 536px;
+}
+
+.quemSomos h2 {
+    position: absolute;
+    width: 300px;
+    height: 73px;
+    left: 542px;
+    top: 536px;
+
+    font-family: Great Vibes;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 80px;
+
+    color: #000000;
+}
+
+.quemSomos p {
+    position: absolute;
+    width: 648px;
+    height: 91px;
+    left: 513px;
+    top: 671px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+
+    color: #000000;
+}
+
+.linhaVerde{
+    position: absolute;
+    width: 130px;
+    height: 0px;
+    left: 600px;
+    top: 609px;
+
+    border: 0.8px solid #00B41A;
+}
+
+.areas{
+    position: absolute;
+    width: 100%;
+    height: 500px;
+    left: 0px;
+    top: 844px;
+    background: #F4F4F4;
+}
+
+.areas h2 {
+    position: absolute;
+    width: 362px;
+    height: 67px;
+    left: 542px;
+    top: 40px;
+    font-family: Great Vibes;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 80px;
+    
+    color: #000000;
+}
+
+.linhaAreas{
+    position: absolute;
+    width: 141px;
+    height: 0px;
+    left: 624px;
+    top: 113px;
+
+    border: 0.8px solid #00B41A;
+}
+
+.vetor1{
+    position: absolute;
+width: 172.79px;
+height: 78.44px;
+left: 350px;
+top: 140px;
+
+
+
+}
+
+.vetor2{
+    position: absolute;
+width: 243.81px;
+height: 56.95px;
+left: 350px;
+top: 270px;
+
+
+}
+
+.vetor3{
+    position: absolute;
+    width: 243.81px;
+    height: 56.95px;
+    left: 350px;
+    top: 400px;
+
+}
+
+.vetor4{
+    position: absolute;
+    width: 243.81px;
+    height: 56.95px;
+    left: 800px;
+    top: 150px;
+
+}
+
+.vetor5{
+
+    position: absolute;
+    width: 243.81px;
+    height: 56.95px;
+    left: 800px;
+    top: 270px;
+}
+
+.vetor6{
+
+    position: absolute;
+    width: 243.81px;
+    height: 56.95px;
+    left: 800px;
+    top: 400px;
+
+}
+
+.quebra{
+    position: absolute;
+    width: 100%;
+    height: 400px;
+    left: 0px;
+    top: 1340px;
+}
+
+.quebra p {
+    position: absolute;
+width: 849px;
+height: 93px;
+left: 144px;
+top: 153px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 33px;
+
+color: #000000;
+
+    
+
+}
+
+.linhaQuebra1{
+    position: absolute;
+width: 310px;
+height: 0px;
+left: 364px;
+top: 130px;
+
+border: 1.5px solid #00B41A;
+}
+
+.linhaQuebra2{
+    position: absolute;
+width: 310px;
+height: 0px;
+left: 364px;
+top: 230px;
+
+border: 1.5px solid #00B41A;
+}
+
+.contato{
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    left: 0px;
+    top: 1715px;
+
+    background: #000000;
+}
+
+.contato h2{
+position: absolute;
+width: 166px;
+height: 96px;
+left: 572px;
+top: 50px;
+
+
+font-family: Great Vibes;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 80px;
+
+color: #FFFFFF;
+}
+
+.linha1 { 
+    position: absolute;
+    width: 300px;
+    height: 0px;
+    left: 144px;
+    top: 220px;
+
+    border: 1.5px solid #00B41A;
+}
+.linha2 { 
+    position: absolute;
+    width: 300px;
+    height: 0px;
+    left: 144px;
+    top: 350px;
+
+    border: 1.5px solid #00B41A;
+}
+.linha3 { 
+    position: absolute;
+    width: 300px;
+    height: 0px;
+    left: 144px;
+    top: 480px;
+
+    border: 1.5px solid #00B41A;
+}
+
+.contato input {
+    background-color: black;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 38px;
+    border: none;
+    color: white;
+}
+
+.linhaContato{
+    position: absolute;
+width: 64px;
+height: 0px;
+left: 628px;
+top: 113px;
+
+border: 0.8px solid #00B41A;
+}
+
+.contato .nome{
+    position: absolute;
+    font-family: Raleway;
+    height: 40px;
+    width: 300px;
+    margin-top: 170px;
+    left: 144px;
+}
+
+.contato .email{
+    position: absolute;
+    font-family: Raleway;
+    height: 40px;
+    width: 300px;
+    left: 144px;
+    margin-top: 300px;
+}
+
+.contato .whatsapp{
+    position: absolute;
+    font-family: Raleway;
+    height: 40px;
+    width: 300px;
+    left: 144px;
+    margin-top: 430px;
+}
+
+.textarea { 
+    position: absolute;
+    width: 330px;
+    height: 218px;
+    left: 523px;
+    top: 230px;
+    font-family: Raleway;
+    background: #C4C4C4;
+    border-radius: 3px;
+}
+
+.contato p {
+    position: absolute;
+width: 404px;
+height: 123px;
+left: 901px;
+top: 180px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.contato button{ 
+    position: absolute;
+    width: 172px;
+    height: 41px;
+    left: 445px;
+    top: 530px;
+
+    background: #F4F4F4;
+    border-radius: 3px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.contato img {
+    position: absolute;
+    width: 82px;
+    height: 82px;
+    left: 1060px;
+    top: 330px;
+    cursor: pointer;
+    
+
+}
+
+.footer{
+    width: 100%;
+    height: 130px;
+    position:absolute;
+    background-color: #F4F4F4;
+    top: 2300px;
+}
+
+.footer img{
+    position: absolute;
+    width: 53px;
+    height: 53px;
+    left: 137px;
+    top: 25px;
+}
+
+.footer .nome{
+    position: absolute;
+    left: 220px;
+    top: 30px;
+    
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.footer .endereco{
+    position: absolute;
+    top: 55px;
+    left: 220px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.footer .email{
+    position: absolute;
+    top: 10px;
+    left: 600px;
+    width: 28px;
+    height: 28px;
+}
+
+.footer .whats{
+    position: absolute;
+    left: 600px;
+    width: 28px;
+    height: 28px;
+    top: 50px;
+}
+
+.footer .pemail{
+    position: absolute;
+    top: 15px;
+    left: 650px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.footer .pwhats{
+    position: absolute;
+    top: 55px;
+    left: 650px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+}
+
+.footer .siga{
+    position: absolute;
+    width: 225px;
+    height: 27px;
+    left: 870px;
+    top: 35px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.footer .face {
+    position: absolute;
+    left: 1110px;
+}
+
+.footer .twitter {
+    position:absolute;
+    left: 1180px;
+}
+
+.footer .insta {
+    position: absolute;
+    left: 1260px;
+}
+
+
+.footer .copyright {
+    position: absolute;
+    top: 100px;
+    left: 45%;
+}
